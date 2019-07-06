@@ -1,6 +1,6 @@
-### Genetic Correlation estimated using the Method introduced in the Article below 
-##### Please cite: Estimating Genetic Parameters in the Absence of Genetic Data from Country-scale Health Datasets
-##### You can also find more estimates of Genetic Correlation, Environmental Correlation, and Phenotypic Correlation in the supplemental table there.
+## Genetic Correlation estimated using the Method introduced in the Article below 
+### Please cite: Estimating Genetic Parameters in the Absence of Genetic Data from Country-scale Health Datasets
+#### You can also find more estimates of Genetic Correlation, Environmental Correlation, and Phenotypic Correlation in the supplemental table there.
 
 | Abnormal Spine Curvature | Acne                                              | 0\.2526   | 0\.0550 | SNP\-based | LDSC |
 |--------------------------|---------------------------------------------------|-----------|---------|------------|------|
